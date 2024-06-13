@@ -1,0 +1,44 @@
+{
+  "RootLayout": {
+    "home_link": "Home",
+    "chat_link": "Ask",
+    "sign_in_link": "Login",
+    "sign_up_link": "Register",
+    "logout_link": "Logout"
+  },
+  "BaseTemplate": {
+    "meta_title": "Silber Salon",
+    "title": "Learn Technology Easily: AI-Powered Guide for Seniors |  Silber Salon",
+    "description": "Empower seniors to navigate the digital world with confidence! Our AI-powered website offers easy-to-follow tutorials and personalized support, helping older adults learn to use smartphones, computers, email, social media, and more. Join our community and discover how technology can enhance your life. Start learning today with Silber Salon"
+  },
+  "InputScreen": {
+    "meta_title": "Silber Salon",
+    "send": "Send",
+    "message_placeholder": "Enter your message here",
+    "welcome_message": "Hi, How can I help you today?"
+  },
+  "Index": {
+    "meta_title": "Silber Salon",
+    "meta_description": "Silber Salon AI, ask you AI any question and get an answer."
+  },
+  "SignIn": {
+    "meta_title": "Sign in",
+    "meta_description": "Seamlessly sign in to your account with our user-friendly login process."
+  },
+  "SignUp": {
+    "meta_title": "Sign up",
+    "meta_description": "Effortlessly create an account through our intuitive sign-up process."
+  },
+  "Dashboard": {
+    "meta_title": "Dashboard",
+    "hello_message": "Hello {email}!"
+  },
+  "UserProfile": {
+    "meta_title": "User Profile"
+  },
+  "DashboardLayout": {
+    "dashboard_link": "Dashboard",
+    "user_profile_link": "Manage your account",
+    "sign_out": "Sign out"
+  }
+}

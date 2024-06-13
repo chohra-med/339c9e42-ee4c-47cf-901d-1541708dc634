@@ -1,0 +1,42 @@
+{
+  "RootLayout": {
+    "home_link": "Startseite",
+    "chat_link": "Fragen",
+    "sign_in_link": "Anmelden",
+    "sign_up_link": "Registrieren",
+    "logout_link": "Abmelden"
+  },
+  "BaseTemplate": {
+    "title": "Technologie leicht lernen: KI-gestützter Leitfaden für Senioren | Silber Salon",
+    "description": "Ermöglichen Sie Senioren, selbstbewusst die digitale Welt zu navigieren! Unsere KI-gestützte Website bietet leicht verständliche Tutorials und persönliche Unterstützung, um älteren Erwachsenen beizubringen, Smartphones, Computer, E-Mail, soziale Medien und mehr zu nutzen. Treten Sie unserer Community bei und entdecken Sie, wie Technologie Ihr Leben bereichern kann. Starten Sie noch heute mit dem Lernen im Silber Salon."
+  },
+  "InputScreen": {
+    "send": "Senden",
+    "message_placeholder": "Geben Sie hier Ihre Nachricht ein",
+    "welcome_message": "Hallo, wie kann ich Ihnen heute helfen?"
+  },
+  "Index": {
+    "meta_title": "Silber Salon",
+    "meta_description": "Silber Salon KI, stellen Sie Ihrer KI eine Frage und erhalten Sie eine Antwort."
+  },
+  "SignIn": {
+    "meta_title": "Anmelden",
+    "meta_description": "Melden Sie sich nahtlos mit unserem benutzerfreundlichen Anmeldeprozess an."
+  },
+  "SignUp": {
+    "meta_title": "Registrieren",
+    "meta_description": "Erstellen Sie mühelos ein Konto durch unseren intuitiven Registrierungsprozess."
+  },
+  "Dashboard": {
+    "meta_title": "Dashboard",
+    "hello_message": "Hallo {email}!"
+  },
+  "UserProfile": {
+    "meta_title": "Benutzerprofil"
+  },
+  "DashboardLayout": {
+    "dashboard_link": "Dashboard",
+    "user_profile_link": "Verwalten Sie Ihr Konto",
+    "sign_out": "Abmelden"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "RootLayout": {
+    "home_link": "Accueil",
+    "chat_link": "Demander",
+    "sign_in_link": "Connecter",
+    "sign_up_link": "S'inscrire",
+    "logout_link": "Deconnecter"
+  },
+  "BaseTemplate": {
+    "title": "Apprenez la technologie facilement : Guide alimenté par l'IA pour les seniors | Silber Salon",
+    "description": "Donnez aux seniors les moyens de naviguer dans le monde numérique en toute confiance ! Notre site web alimenté par l'IA propose des tutoriels faciles à suivre et un soutien personnalisé, aidant les personnes âgées à apprendre à utiliser les smartphones, les ordinateurs, les e-mails, les médias sociaux, et bien plus encore. Rejoignez notre communauté et découvrez comment la technologie peut améliorer votre vie. Commencez à apprendre dès aujourd'hui avec Silber Salon."
+  },
+  "InputScreen": {
+    "send": "Envoyer",
+    "message_placeholder": "Entrez votre message ici",
+    "welcome_message": "Bonjour, comment puis-je vous aider aujourd'hui ?"
+  },
+  "Index": {
+    "meta_title": "Silber Salon",
+    "meta_description": "Silber Salon AI, posez à votre IA n'importe quelle question et obtenez une réponse."
+  },
+  "SignIn": {
+    "meta_title": "Se connecter",
+    "meta_description": "Connectez-vous facilement à votre compte grâce à notre processus de connexion convivial."
+  },
+  "SignUp": {
+    "meta_title": "S'inscrire",
+    "meta_description": "Créez un compte sans effort grâce à notre processus d'inscription intuitif."
+  },
+  "Dashboard": {
+    "meta_title": "Tableau de bord",
+    "hello_message": "Bonjour {email} !"
+  },
+  "UserProfile": {
+    "meta_title": "Profil de l'utilisateur"
+  },
+  "DashboardLayout": {
+    "dashboard_link": "Tableau de bord",
+    "user_profile_link": "Gérer votre compte",
+    "sign_out": "Se déconnecter"
+  }
+}
