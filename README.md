@@ -1,6 +1,6 @@
+## Technology Used
 
-Technology Used
-⚡ Next.js with App Router support, latest version ( 14)
+⚡ Next.js with App Router support, latest version (14)
 🔥 Type checking TypeScript
 💎 Integrate with Tailwind CSS
 ✅ Strict Mode for TypeScript and React 18
@@ -36,42 +36,29 @@ Technology Used
 ⚙️ Bundler Analyzer
 🌈 Include a FREE minimalist theme
 💯 Maximize lighthouse score
-use Sentry for Error management
-Use custom Style for animation
 
+## Added value
 
+As discussed in our meeting, the next step for Silber Salon is to scale for new users and new markets, with new features such as internalization, Better Ui Ux for the elderly, and a Voice option. We have also added support for three additional languages: Germany, English, and French.
 
-Added value 
-As we discussed in our meeting, the next step for Silber Salon is to scale for new users and new markets, with new features such as internalization, Better Ui Ux for the elderly, and a Voice option
-Different Language support, which we have added here to support three more different languages
-Germany
-English
-French
-Dark Theme: one of the most important features in mobile applications nowadays, it makes the application look good for users, especially when the user needs to use it frequently.
-Mobile friendly design
-Ability to talk instead of writing, when chatting with the AI
-Ability to listen to answers provided by Chatgpt
-Custom Prompt that goes step by step with old people
-Add custom Login and User Registration 
-Missed stuff in our solution
-Chat Saving
-I already have the database migration and validation for that
-didn’t have enough time to implement it
-All the CRUD options can be done, with design integration
+Other features included in our solution:
 
+- Dark Theme: One of the most important features in mobile applications nowadays, it makes the application look good for users, especially when the user needs to use it frequently.
+- Mobile-friendly design
+- Ability to talk instead of writing when chatting with the AI
+- Ability to listen to answers provided by Chatgpt
+- Custom Prompt that goes step by step with old people
+- Custom Login and User Registration
+- Chat Saving
 
+We already have the database migration and validation for chat saving, but we didn't have enough time to implement it. All CRUD options can be done with design integration.
 
+## How to use it
 
+1. Install the dependencies: `npm install`
+2. Run for web: `npm run dev`
 
+## Link to Demo
 
+[Demo](https://drive.google.com/file/d/1rTCH_CtS5mM2hxEU1j4g9LcD98r-P-dL/view?usp=sharing)
 
-
-
-How to use it
-Install the dependencies:npm install’
-run for web: ‘ npm run dev’
-
-
-
-Link to Demo
-https://drive.google.com/file/d/1rTCH_CtS5mM2hxEU1j4g9LcD98r-P-dL/view?usp=sharing
